@@ -1,0 +1,72 @@
+.form{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EBF2FD;
+}
+
+form{
+    width: 30rem;
+    height: 80%;
+    border-radius: 15px;
+}
+
+fieldset{
+    height: 100%;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: #fff;
+    border-color: #06367A;
+}
+
+legend{
+    font-size: 30px;
+    margin-left: 5%;
+    color: #06367A;
+}
+
+.contacts{
+    display: flex;
+}
+
+.input{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form input{
+    width: 90%;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #EBF2FD;
+}
+
+.button{
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+    margin-left: 79%;
+    background-color: #06367A;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+
+.button:hover{
+    background-color: #0950b4;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.contacts input{
+    width: 80%;
+}
+
+.fields{
+    display: flex;
+}
