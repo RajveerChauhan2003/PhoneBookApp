@@ -26,7 +26,13 @@ function Form() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    axios.post("/add", formState);
+    axios.post("http://localhost:5000/add", formState)
+    .then((res)=>{
+      console.log(res.data)
+    })
+    .catch((err)=>{
+      console.log(err)
+    })
     console.log("Data send to backend");
     navigate('/');
     window.location.reload();
