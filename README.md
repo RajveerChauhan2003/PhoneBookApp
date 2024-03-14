@@ -37,8 +37,10 @@ First create node modules in both frontend and backend dierectory, then...
 
 ## Frontend
 cd front-end
+<br>
 npm start
 
 ## Backend
 cd back-end
+<br>
 npm start
