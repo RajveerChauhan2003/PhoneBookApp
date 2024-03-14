@@ -26,5 +26,5 @@ Develop a web based contact book application that can store following informatio
 <img src="Image/delete.png">
 
 ### Search Contact
-<img src="Image/search.png">
+<img src="Images/search.png">
 
