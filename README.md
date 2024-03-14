@@ -31,3 +31,14 @@ Develop a web based contact book application that can store following informatio
 ### Search Contact
 <img src="Images/search.png">
 
+# How to run the project
+
+First create node modules in both frontend and backend dierectory, then...
+
+## Frontend
+cd front-end
+npm start
+
+## Backend
+cd back-end
+npm start
