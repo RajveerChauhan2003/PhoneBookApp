@@ -19,6 +19,9 @@ Develop a web based contact book application that can store following informatio
 <img src="Images/add1.png">
 <img src="Images/add2.png">
 
+### View Contact
+<img src="Images/view.png">
+
 ### Edit Contact
 <img src="Images/edit.png">
 
