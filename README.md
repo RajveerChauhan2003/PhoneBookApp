@@ -13,18 +13,18 @@ Develop a web based contact book application that can store following informatio
 # Solution
 
 ### Dashboard - All the saved contacts are shown here
-<img src="./Image/dashboard.jpg">
+<img src="Image/dashboard.jpg">
 
 ### Add New Contact
-<img src="./Image/add1.jpg">
-<img src="./Image/add2.jpg">
+<img src="Image/add1.jpg">
+<img src="Image/add2.jpg">
 
 ### Edit Contact
-<img src="./Image/edit.jpg">
+<img src="Image/edit.jpg">
 
 ### Delete Contact
-<img src="./Image/delete.jpg">
+<img src="Image/delete.jpg">
 
 ### Search Contact
-<img src="./Image/search.jpg">
+<img src="Image/search.jpg">
 
