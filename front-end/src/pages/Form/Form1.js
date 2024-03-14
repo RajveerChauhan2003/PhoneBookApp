@@ -31,7 +31,7 @@ function Form1() {
         e.preventDefault();
 
         try {
-            await axios.post("/edit", formState);
+            await axios.post("http://localhost:5000/edit", formState);
             console.log("Data sent to backend");
             navigate('/');
             window.location.reload();
